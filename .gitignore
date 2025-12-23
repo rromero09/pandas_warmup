@@ -1,1 +1,5 @@
 venv
+
+# Large data files (exceed GitHub's 100MB limit)
+data/instacart/order_products__prior.csv
+data/instacart/orders.csv
